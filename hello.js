@@ -28,9 +28,68 @@
 // console.log("type of k",typeof(k))
 // var j
 // console.log("type of j",typeof(j))
-if(2>3){
-    console.log("bye")
-}
-else{
-    console.log("hello")
-}
+// var age = Number(prompt("enter your age"));
+// if( age<=5 ){
+//     alert("congratulations! you got 25% discount your ticket price is, "+750);
+// }else if( age >5 && age <=55){
+//     alert("congratulations! you got 20% discount your ticket price is, "+800);
+// }
+// else if(age>12 && age<20){
+
+// }
+
+// else{
+//     alert("congratulations! you got 40% discount your ticket price is, "+600);
+// }
+
+//
+// if(a>b){
+
+// }
+// else if(b>c){
+
+// }
+// else{
+
+// }
+//loops 
+
+// var i=0;
+
+// // while(i<10){
+
+// //     console.log("i==",i)
+// //     i++
+// // }
+// do{
+// // i++  5 *4*3
+// //5
+// console.log("i==",i)
+
+// }while(i<10)
+
+// var no=prompt('enter a no')
+// var i=1
+// while(i<10){
+
+//     console.log("table of no",no*i)
+//     i++
+// }
+// prime or not factorial
+
+// for loop
+// let var
+// for(var k=0;k<10;k++){
+
+//     console.log("k==",k)
+// }
+// console.log("k==",k)
+// for(let m=0;m<10;m++){
+
+//     console.log("k==",m)
+// }
+// console.log("m==",m)
+
+
+//20
+// 0 1 1 2 3 5 8 13 21
